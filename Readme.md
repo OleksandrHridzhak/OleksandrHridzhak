@@ -1,5 +1,1 @@
-# Oleksandr Hridzhak
-Computer Science Student.
-
-Сonstantly fighting the urge to just let AI write everything for me. It’s a daily battle to stay out of that "copy-paste" loop and actually do the deep problem-solving myself.
-I believe in learning through practice — building real projects, debugging real problems.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamcwMTVqeXgyNm1tbnpldmdicXlqZ25mdGJiMjBvOWFhcmJleG44ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9A3OAEoPMsSEMcRPy/giphy.gif" width="300" alt="gif" />
